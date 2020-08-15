@@ -1,3 +1,5 @@
+github.com/LIWENHUI121017/tools v0.0.0-20200815080805-decb4d35cace h1:Dd+tiKbByPZT6+xC5FBLPSkS2x77DxQp7LrimkC2odY=
+github.com/LIWENHUI121017/tools v0.0.0-20200815080805-decb4d35cace/go.mod h1:kRoFb6E+3RaRWzVtfif94J2Wujpu/1JmOE5fRih7fWk=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/net v0.0.0-20190311183353-d8887717615a/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
